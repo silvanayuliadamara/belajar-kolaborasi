@@ -1,2 +1,3 @@
 # belajar-kolaborasi
-GitHub Asyik!
+GitHub Asyik!<br>
+Apalagi belajarnya di Dicoding
